@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: dnspy
+Version: 3.1
+Summary: Library for fully qualified domain name (FQDN) manipulation
+Home-page: https://github.com/sandeepvaday/dnspy
+Author: Sandeep Yadav
+Author-email: UNKNOWN
+License: Apache
+Description: UNKNOWN
+Platform: UNKNOWN
